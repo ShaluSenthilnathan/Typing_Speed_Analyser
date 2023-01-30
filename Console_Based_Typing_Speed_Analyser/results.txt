@@ -1,0 +1,16 @@
+
+ABBREVIATIONS:
+CPM - Characters Per Minute
+WPM - Words Per Minute
+
+PAST RECORDS:
+Name:Swikruthi			CPM:277				WPM:39
+Name:Saisha			CPM:261				WPM:42
+Name:Poorab			CPM:223				WPM:36
+Name:Rithwik			CPM:140				WPM:43
+Name:Nisha			CPM:227				WPM:36
+Name:Adhya			CPM:20				WPM:3
+Name:Sara			CPM:233				WPM:37
+Name:Arav			CPM:100				WPM:0
+Name:Arav			CPM:246				WPM:40
+Name:Avneet			CPM:245				WPM:38

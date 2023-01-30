@@ -1,0 +1,2 @@
+
+Robotics Process Automation which allows organizations to automate task just like a human being was doing them across application and systems.The purpose of RPA is to transfer the process execution from humans to bots. Robotic process automation interacts with the existing IT architecture with no complex system integration required.RPA automation can be used to automate workflow, infrastructure, back office process which are labor intensive. These software bots can interact with an in-house application, website, user portal, etc. RPA stands for Robotic Process Automation.

@@ -1,0 +1,2 @@
+
+Bitcoin is a digital currency which operates free of any central control or the oversight of banks or governments. Instead it relies on peer-to-peer software and cryptography.A public ledger records all bitcoin transactions and copies are held on servers around the world.Anyone with a spare computer can set up one of these servers, known as a node. Consensus on who owns which coins is reached cryptographically across these nodes rather than relying on a central source of trust like a bank.Every transaction is publicly broadcast to the network and shared from node to node.
